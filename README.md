@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aayush Mehan 👋</h1>
+<h1 align="center">Hi, I'm Aayush Mehan </h1>
 <h3 align="center">Product Manager · AI Platforms, Agents &amp; Fintech</h3>
 
 <p align="center">

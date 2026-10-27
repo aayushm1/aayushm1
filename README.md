@@ -35,6 +35,9 @@
 
 | Project | What it shows | Links |
 |---|---|---|
+| 🔒 **[PasteGuard](https://github.com/aayushm1/pasteguard)** · *shipped v0.2* | A Chrome extension that masks names, card details, IDs, addresses and API keys **the moment you paste** into ChatGPT, Claude or Gemini, then restores the real values in the reply. 25 detectors (checksums + context + inference), zero servers, 100% local. | [Website + demo](https://aayushm1.github.io/pasteguard/) · [Install](https://github.com/aayushm1/pasteguard/releases/latest) |
+| 🔎 **[Proposal Lens](https://github.com/aayushm1/proposal-lens)** | An AI hotel-proposal analyst for event planners: normalizes 5 messy proposals to true total cost (**$273K** in hidden costs found), scores contract clauses against benchmarks and drafts the counter-proposal. | [Live demo](https://aayushm1.github.io/proposal-lens/) |
+| 🗂️ **[Renewal Decision Room](https://github.com/aayushm1/renewal-decision-room)** | An AI renewal agent that turns SaaS renewal alerts into renew / downsize / consolidate / cancel decisions before the notice deadline. **~$355K** savings found on $1.2M of renewals. | [Live demo](https://aayushm1.github.io/renewal-decision-room/app.html) |
 | 🛡️ **[Fraud Rules Playground](https://github.com/aayushm1/fraud-rules-playground)** | A no-code simulator for back-testing payment fraud rules. Fraud caught **37% → 82%**, good customers wrongly blocked **−91%**, total cost of fraud **−84%**. Ships with a PRD, decision log and fintech concepts guide. | [Live demo](https://aayushm1.github.io/fraud-rules-playground/) |
 | 🎥 **[SidelineReel](https://github.com/aayushm1/sidelinereel)** | An AI-trust confidence gate for youth-sports highlight reels: low-confidence clips go to the coach for a one-tap confirm, and nothing unconfirmed is ever guessed. | [Live demo](https://aayushm1.github.io/sidelinereel/) |
 | 🏦 **Loan Decision Engine** | Credit policy rules, scorecards and approval-vs-default trade-offs. | *In progress* |
